@@ -1,0 +1,23 @@
+.nav-link{
+    color:black !important;
+}
+h1{
+    text-align:center;
+}
+h2{
+    color:darkblue !important;
+}
+a{
+    text-decoration: none;
+    color:rgb(44, 46, 48);
+}
+a.xanh{
+    color:#2F319E;
+}
+.center{
+    text-align:center;
+}
+h3{
+    text-align: center;
+    font-size: 26.6px;
+}
